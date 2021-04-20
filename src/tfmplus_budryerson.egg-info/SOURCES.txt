@@ -1,0 +1,7 @@
+README.md
+setup.cfg
+setup.py
+src/tfmplus_budryerson.egg-info/PKG-INFO
+src/tfmplus_budryerson.egg-info/SOURCES.txt
+src/tfmplus_budryerson.egg-info/dependency_links.txt
+src/tfmplus_budryerson.egg-info/top_level.txt
